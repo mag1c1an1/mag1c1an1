@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ ♊ **I’m mag1c1an1**   
+ 
+ 📫 How to reach me: mag1cian0610@gmail.com
+
+ ✨ **Used Environment**  
+
+   ![](https://img.shields.io/badge/-Cpp-3776AB?style=flat-square&logo=Cpp&logoColor=fff)
+   ![](https://img.shields.io/badge/-Rust-E95420?style=flat-square&logo=Rust&logoColor=fff)
+   ![](https://img.shields.io/badge/-Go-007396?style=flat-square&logo=Go&logoColor=fff)
+   ![](https://img.shields.io/badge/-Archlinux-007396?style=flat-square&logo=Archlinux&logoColor=fff)
+
+
