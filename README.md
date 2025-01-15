@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
- ♊ **I’m mag1c1an1**   
+ ♊ **I’m mag1cian**   
  
  📫 How to reach me: mag1cian0610@gmail.com
+ Blog: https://magcian.top
 
  ✨ **Used Environment**  
 
